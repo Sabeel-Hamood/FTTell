@@ -28,7 +28,8 @@ Pediatricians have full access to the system, enabling them to diagnose patients
 - <b>The development of the frontend is based on React, CSS and JavaScript. </b>
 
 <h2>Implementation Of The Backend</h2>
-- <b>The development of the backend is based on Python, Node.js and JavaScript. </b>
+- <b>The development of the backend is based on Python and JavaScript.</b>
+
 - <b>The development of the backend is based on Python and JavaScript. </b>
 <br></br>
 - <b>Running on Node.js, Express and MongoDB </b>
