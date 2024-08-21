@@ -1,5 +1,5 @@
 # FTTell
-<h1>Pacathon</h1>
+<h1>FTTell-Diagnose System</h1>
 
 
 
@@ -18,18 +18,20 @@ https://www.fttell.org/
 <br />
 
 <h2> Code</h2>
-  https://colab.research.google.com/drive/1BWXNukb6RG739aSzQDXFPTnzR2xUA7C_?usp=sharing
+The project was implemented in collaboration with my colleague Ehsan Sarboukh
+https://github.com/EhsanSarboukh/FTTell-System.git
 <h2>The target audience</h2>
 
-People who are interested in learning cloud computing or expanding and deepening their knowledge.
-<h2>Languages Used</h2>
+Pediatricians have full access to the system, enabling them to diagnose patients comprehensively. Additionally, individuals seeking an indication of their child's growth status are granted partial access to the system, allowing them to receive a diagnostic result based solely on specific formulas 
+<h2>Implementation Of The Frontend</h2>
 
-- <b>Python </b>
-- <b>JavaScript </b>
-- <b>HTML </b>
-- <b>CSS </b>
-<h2>The development team</h2>
-- The team consists of 6 students
+- <b>The development of the frontend is based on React, CSS and JavaScript. </b>
+
+<h2>Implementation Of The Backend</h2>
+- <b>The development of the backend is based on Python, Node.js and JavaScript. </b>
+- <b>The development of the backend is based on Python and JavaScript. </b>
+- <b>Running on Node.js, Express and MongoDB </b>
+
 
 
 
